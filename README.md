@@ -1,4 +1,4 @@
-# ws_canvas
+# js_canvas
 
 * Download a zip of this `js_canvas` repository
   or (preferably) clone it thus:
